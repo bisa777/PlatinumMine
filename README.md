@@ -1,1 +1,1 @@
-# PlatinumMine
+# PlatinumMine.github.io
